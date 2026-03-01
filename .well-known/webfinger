@@ -1,9 +1,9 @@
 {
-  "subject": "acct:it@quantumsignals.de/",
+  "subject": "acct:it@quantumsignals.de",
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://tail-o4xsvl.us1.zitadel.cloud"
+      "href": "https://tailscale-byubov.us1.zitadel.cloud"
     }
   ]
 }
